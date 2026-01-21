@@ -1,5 +1,14 @@
-tiktok.com
-play.google.com/store/apps/details?id=video.edit.saver.trim.downloader.editor.save.hd.mp4
-www.tiktok.com/en/
-www.tiktok.com*
-m.youtube.com/shorts/
+! --- حجب تيك توك بالكامل (يشمل كل سيرفراته) ---
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||byteoversea.com^
+||ibytedtos.com^
+||musical.ly^
+||muscdn.com^
+
+! --- حجب يوتيوب بالكامل (الحل الوحيد لحجب الشورتس عبر DNS) ---
+! إذا فعلت السطر التالي سيتوقف يوتيوب تماماً
+! ||youtube.com^
+! ||googlevideo.com^
+! ||youtu.be^
