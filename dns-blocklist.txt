@@ -1,4 +1,6 @@
-! --- حجب تيك توك بالكامل (يشمل كل سيرفراته) ---
+! ---------------------------------------------------
+! --- قائمة حجب تيك توك الشاملة (TikTok Blocklist) ---
+! ---------------------------------------------------
 ||tiktok.com^
 ||tiktokv.com^
 ||tiktokcdn.com^
@@ -6,13 +8,26 @@
 ||ibytedtos.com^
 ||musical.ly^
 ||muscdn.com^
+||ttlivecdn.com^
+||p16-tiktokcdn-com.akamaized.net^
+||ipstatp.com^
+||snssdk.com^
+||zhiliaoapp.com^
 
-! --- حجب يوتيوب بالكامل (الحل الوحيد لحجب الشورتس عبر DNS) ---
-! إذا فعلت السطر التالي سيتوقف يوتيوب تماماً
-! ||youtube.com^
-! ||googlevideo.com^
-! ||youtu.be^
-tunnel.googlezip.net
-googleads.g.doubleclick.net
-www.itaerea.com
-oxylabs.io
+! ---------------------------------------------------
+! --- منع تجاوز الحجب وتتبع جوجل (Anti-Bypass) ---
+! ---------------------------------------------------
+! هذا النطاق يمنع كروم من استخدام بروكسي جوجل لتجاوز الحجب
+||tunnel.googlezip.net^
+||googleads.g.doubleclick.net^
+||oxylabs.io^
+||itaerea.com^
+
+! ---------------------------------------------------
+! --- حجب يوتيوب بالكامل (اختياري) ---
+! لإيقاف يوتيوب (بما فيه الشورتس)، امسح علامة التعجب (!) من بداية السطور التالية
+! ---------------------------------------------------
+||youtube.com^
+||googlevideo.com^
+||youtu.be^
+||youtube-nocookie.com^
