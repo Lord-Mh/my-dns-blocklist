@@ -12,3 +12,4 @@
 ! ||youtube.com^
 ! ||googlevideo.com^
 ! ||youtu.be^
+tunnel.googlezip.net
