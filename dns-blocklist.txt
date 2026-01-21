@@ -13,3 +13,4 @@
 ! ||googlevideo.com^
 ! ||youtu.be^
 tunnel.googlezip.net
+googleads.g.doubleclick.net
